@@ -113,4 +113,4 @@ const {
 } = car
 console.log(price1);
 console.log(price2);
-console.log(price3);
+console.log(price2);
